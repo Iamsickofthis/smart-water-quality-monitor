@@ -1,1 +1,1 @@
-web: gunicorn app:app
+web: gunicorn smart_water_monitor.app:app
